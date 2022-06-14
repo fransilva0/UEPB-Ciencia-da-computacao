@@ -16,4 +16,10 @@
 (ex. 4,75) e quanto em dinheiro ele deseja abastecer (ex. 50,00). Calcule 
 quantos litros de combustível o usuário obterá com esses valores. (litro-combustivel.py)
 
-2.
+2. Faça um programa que calcule a média de consumo (em km/l) de combustível de um veículo. O usuário deve informar o KM inicial (ex. 12500 km), o KM final (ex. 12700 km) e quantos litros foram gastos no percurso. (consumo-gasolina.py)
+
+3. Faça um programa que calcule o valor a ser pago por uma dívida em atraso. O usuário deve informar o valor original da dívida (ex 50,00), a quantidade de dias em atraso (ex. 35 dias) e o valor da multa por dia de atraso (ex. R$ 0,25). (pago-com-juros.py)
+
+4. Faça um programa que calcule a área total (m2) de uma casa com 4 cômodos. O usuário deve inserir a largura e comprimento de cada um dos cômodos, calcular a área individual de cada um e por fim exibir a área total da casa. (area-total.py)
+
+5. 
