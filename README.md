@@ -25,3 +25,5 @@ quantos litros de combustível o usuário obterá com esses valores. (litro-comb
 5. Faça um programa que calcule a conversão monetária de Real para Dólar. O usuário informa o valor da cotação do dólar (ex.: 3,78) e quanto em real deseja converter (ex. 150,00). O programa exibe quantos dólares valem os reais informados. (convercao-monetaria.py)
 
 6. Faça um programa que calcula o novo valor do salário de um funcionário. O usuário informa o salário atual (ex. 1250,00) e o percentual do reajuste (ex. 13,5 %). (novo-salario.py)
+
+7. Faça um programa que calcula o tempo (em anos) que uma pessoa irá demorar para poupar R$ 1.000.000,00 (Um Milhão de Reais). O usuário informa o salário mensal e o total de despesas mensais. (tempo-de-poupanca.py)
