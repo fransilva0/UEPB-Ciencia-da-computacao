@@ -22,4 +22,6 @@ quantos litros de combustível o usuário obterá com esses valores. (litro-comb
 
 4. Faça um programa que calcule a área total (m2) de uma casa com 4 cômodos. O usuário deve inserir a largura e comprimento de cada um dos cômodos, calcular a área individual de cada um e por fim exibir a área total da casa. (area-total.py)
 
-5. 
+5. Faça um programa que calcule a conversão monetária de Real para Dólar. O usuário informa o valor da cotação do dólar (ex.: 3,78) e quanto em real deseja converter (ex. 150,00). O programa exibe quantos dólares valem os reais informados. (convercao-monetaria.py)
+
+6.  
