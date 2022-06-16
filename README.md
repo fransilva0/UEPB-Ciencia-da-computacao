@@ -27,3 +27,5 @@ quantos litros de combustível o usuário obterá com esses valores. (litro-comb
 6. Faça um programa que calcula o novo valor do salário de um funcionário. O usuário informa o salário atual (ex. 1250,00) e o percentual do reajuste (ex. 13,5 %). (novo-salario.py)
 
 7. Faça um programa que calcula o tempo (em anos) que uma pessoa irá demorar para poupar R$ 1.000.000,00 (Um Milhão de Reais). O usuário informa o salário mensal e o total de despesas mensais. (tempo-de-poupanca.py)
+
+8. Faça um programa que leia um valor inteiro e mostre na tela uma sequência incluindo os dois números que vem antes, o número digitado, e os dois números que vem depois dele. Ex.: digitou 5; o programa mostra 3 4 5 6 7. (sequencia-de-numeros.py)
