@@ -31,3 +31,5 @@ quantos litros de combustível o usuário obterá com esses valores. (litro-comb
 8. Faça um programa que leia um valor inteiro e mostre na tela uma sequência incluindo os dois números que vem antes, o número digitado, e os dois números que vem depois dele. Ex.: digitou 5; o programa mostra 3 4 5 6 7. (sequencia-de-numeros.py)
 
 9. Crie um programa que pergunta o nome do usuário e o ano de nascimento do usuário e calcula qual idade ele tem (ou terá, se ainda não fez aniversário neste ano). Ex.: Nome = Carlos, Ano = 1999. O programa mostra a mensagem: “Carlos tem 20 anos”. (calculo-idade.py)
+
+10. Faça um Programa que verifique se uma letra digitada é vogal ou consoante. (vogal-ou-consoante.py)
